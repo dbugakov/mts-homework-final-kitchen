@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: mts-homework-final-application-service
+
+  main:
+    allow-bean-definition-overriding: true
+
+server:
+  port: 7666
+  error:
+    include-message: always
